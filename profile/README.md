@@ -1,4 +1,4 @@
-![Logo](https://avatars.githubusercontent.com/u/166508182?s=200)
+<img align="right" width="250" height="250" src="https://avatars.githubusercontent.com/u/166508182?s=250">
 # Andph
 <!--
 
